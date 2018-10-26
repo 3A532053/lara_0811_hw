@@ -1,6 +1,6 @@
-#NCUT LARA workshop
-##Homework2 (lara_0811_hw)
-###主要修改檔案:
+# NCUT LARA workshop
+## Homework2 (lara_0811_hw)
+### 主要修改檔案:
  - app\Http\routes.php
  - resources\views\home.blade.php
  - resources\views\about.blade.php
